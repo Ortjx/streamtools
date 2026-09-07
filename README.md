@@ -18,6 +18,20 @@ streamtools/
 
 `info.md` per tool: one-line title, 2-3 sentence description, and anything the download section needs (version, requirements).
 
+## Tools
+
+| Tool | Folder | What it is | Local port |
+|------|--------|-----------|------------|
+| Spotify Widget | `spotify-widget/` | OBS browser-source "now playing" card, plus `/now-playing` and `/stats` JSON endpoints | 7878 |
+
+Each tool's `info.md` is the copy that gets published in the Stream & Tools panel on
+theboardapp.org: title, description, requirements, setup steps, troubleshooting.
+
+## Note on sources
+
+This repo holds the **built exes and their site copy only** — it is the publishing
+staging area, not the source tree. Keep each tool's source in its own project/repo.
+
 ## Workflow
 
 - Push from either machine (this one or the laptop) to this repo.
