@@ -1,0 +1,21 @@
+{
+  "title": "INPUT ARCADE",
+  "keyboardSkin": "custom",
+  "mouseSkin": "custom",
+  "accent": "#59f2c2",
+  "secondary": "#8a6cff",
+  "keycap": "#303641",
+  "keyboardBase": "#171b21",
+  "mouseBody": "#20252c",
+  "scale": 100,
+  "opacity": 100,
+  "keyboardScale": 100,
+  "mouseScale": 100,
+  "gap": 22,
+  "mouseSensitivity": 55,
+  "showMouse": true,
+  "showStats": true,
+  "showTrail": true,
+  "showNameplate": true,
+  "captureEnabled": true
+}

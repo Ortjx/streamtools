@@ -10,8 +10,12 @@ streamtools/
     Spotify Widget.exe
     info.md
     screenshot.png
-  <next-tool>/
-    <tool>.exe
+  stream-pet-creator/
+    StreamPet Creator.exe
+    info.md
+    screenshot.png
+  input-arcade/
+    Input Arcade.exe
     info.md
     screenshot.png
 ```
@@ -21,8 +25,10 @@ streamtools/
 ## Tools
 
 | Tool | Folder | What it is | Local port |
-|------|--------|-----------|------------|
+|------|--------|------------|------------|
 | Spotify Widget | `spotify-widget/` | OBS browser-source "now playing" card, plus `/now-playing` and `/stats` JSON endpoints | 7878 |
+| StreamPet Creator | `stream-pet-creator/` | Five-style character lab, reactive OBS pet, and portable StreamElements/PNG/HTML exports | 7880 |
+| Input Arcade | `input-arcade/` | Full-size 104-key keyboard and mouse visualizer with independent hardware skins | 7890 |
 
 Each tool's `info.md` is the copy that gets published in the Stream & Tools panel on
 theboardapp.org: title, description, requirements, setup steps, troubleshooting.

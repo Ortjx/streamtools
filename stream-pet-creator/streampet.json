@@ -1,0 +1,21 @@
+{
+  "name": "Lumi",
+  "species": "dragon",
+  "style": "anime",
+  "eyes": "gem",
+  "mouth": "smile",
+  "accessory": "headphones",
+  "pattern": "starlight",
+  "pose": "guardian",
+  "aura": "sparkles",
+  "body": "#c56d4e",
+  "secondary": "#f6ddc7",
+  "eye": "#62e8d1",
+  "outline": "#30251f",
+  "scale": 100,
+  "bounce": 46,
+  "micThreshold": 18,
+  "fluff": 68,
+  "outlineWidth": 8,
+  "shadow": 64
+}
