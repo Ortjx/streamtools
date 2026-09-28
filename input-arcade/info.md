@@ -1,12 +1,12 @@
 # Input Arcade
 
-Turn a complete 104-key keyboard and five-button mouse into a premium transparent stream overlay. Choose keyboard and mouse skins independently—from midnight aluminium, snow PBT, terminal beige and bamboo to cyber, sakura, honeycomb, or fully custom materials—then tune lighting, size, spacing, opacity, response and trails.
+A Bongo-Cat-style input cam for your stream. A character sits behind a desk: its left paw taps when you type, its right paw moves the mouse and taps when you click, and its head bobs along. Pick one of eight characters — cat, black cat, orange cat, bunny, shiba, frog, bear, robot — and recolour any of them, or make it completely yours: every part (body, each paw up and down, keyboard, mouse, desk, background) can be your own picture, mixed freely with ours. Share a skin with a friend as one file.
 
-Input Arcade runs completely on the user's computer. It reads key and pointer state natively, works offline, requires no account, never reconstructs words, and does not save or transmit input history.
+Input Arcade runs completely on your computer. It reads key and button state natively, works offline, needs no account, never reconstructs words, and does not save or send input history.
 
 ## Version
 
-3.0.0
+4.0.0
 
 ## Requirements
 
@@ -15,11 +15,11 @@ Input Arcade runs completely on the user's computer. It reads key and pointer st
 
 ## Setup
 
-1. Run `Input Arcade.exe`.
-2. Customize the overlay at `http://localhost:7890`.
-3. Add `http://localhost:7890/overlay` to OBS as a Browser Source at 1600 × 650.
-4. Leave Input Arcade running while streaming.
+1. Run `Input Arcade.exe` — or switch it on in Workbench › Stream & Tools.
+2. Customise it at `http://localhost:7890`.
+3. Add `http://localhost:7890/overlay` to OBS as a Browser Source at 600 × 420.
+4. Leave it running while you stream.
 
-Use the live diagnostics and bench-test buttons to confirm the keyboard and mouse before opening OBS.
+Your own parts are see-through PNG or GIF pictures the size of the cam (600 × 420), so they line up by themselves. "Both paws on the keyboard" mode is in the customiser.
 
-Settings are stored locally beside the executable in `input-arcade.json`.
+Settings and skins are stored locally beside the executable (in Workbench, in Workbench's own data folder).
