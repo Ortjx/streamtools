@@ -1,6 +1,6 @@
 # Input Arcade
 
-A Bongo-Cat-style input cam for your stream. A character sits behind a desk: its left paw taps when you type, its paw lands on the exact key you press on a real keyboard drawn in perspective (the key lights up), the other paw holds the mouse, which slides with your cursor and lights its buttons when you click. Pick one of eight characters — cat, black cat, orange cat, bunny, shiba, frog, bear, robot — and recolour any of them, or make it completely yours: every part (body, each paw up and down, keyboard, mouse, desk, background) can be your own picture, mixed freely with ours. Share a skin with a friend as one file.
+A Bongo-Cat-style input cam for your stream. A character leans over a desk with a real keyboard drawn in perspective: its paw lands on the exact key you press and the key lights up, while the other paw holds the mouse, which slides with your cursor and lights its buttons when you click. Pick one of eight characters — cat, black cat, orange cat, bunny, shiba, frog, bear, robot — and recolour any of them, or make it completely yours: every part (body, each paw up and down, keyboard, mouse, desk, background) can be your own picture, mixed freely with ours. Share a skin with a friend as one file.
 
 Input Arcade runs completely on your computer. It reads key and button state natively, works offline, needs no account, never reconstructs words, and does not save or send input history.
 
