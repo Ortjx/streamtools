@@ -6,7 +6,7 @@ Input Arcade runs completely on your computer. It reads key and button state nat
 
 ## Version
 
-4.6.2
+4.7.0
 
 ## Requirements
 
