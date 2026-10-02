@@ -6,7 +6,7 @@ It runs completely on your computer, needs no account, and refuses requests from
 
 ## Version
 
-1.1.0
+1.1.1
 
 ## Setup
 
